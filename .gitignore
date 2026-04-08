@@ -1,0 +1,41 @@
+# Maven
+target/
+*.jar
+*.war
+*.zip
+*.rar
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project files
+*.iml
+*.iws
+*.ipr
+
+# Dependencies
+.classpath
+.project
+.settings/
+
+# Build
+build/
+dist/
+*.class
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+
+# Application specific
+/db/
+database/
